@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Developing Sonder\InstacartClient\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class InstacartClientCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'instacart';
 
     public $description = 'My command';
 
